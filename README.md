@@ -1,4 +1,4 @@
-<span style="color:gray">parkjh9370/README.md</span>
+
 
 [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@jaehyeon23) ![Gmail Badge](https://img.shields.io/badge/parkjh9370@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parkjh9370@gmail.com)
 
