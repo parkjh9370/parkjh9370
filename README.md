@@ -6,7 +6,7 @@
 
 <!-- <h3> 안녕하세요! 백엔드 개발자 '박재현'입니다! </h3> -->
 
-![Jaehyeon's github stats](https://github-readme-stats.vercel.app/api?username=parkjh9370&show_icons=true&theme=dracula&hide=stars,issues)
+<!-- ![Jaehyeon's github stats](https://github-readme-stats.vercel.app/api?username=parkjh9370&show_icons=true&theme=dracula&hide=stars,issues) -->
  
 <!-- <br /> -->
 
