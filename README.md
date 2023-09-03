@@ -1,8 +1,6 @@
 
-<!-- 포트폴리오
-[<img target='_blank' src="https://img.shields.io/badge/Portfolio-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>](https://parkjh9370-portfolio.vercel.app/)
--->
 
+[<img target='_blank' src="https://img.shields.io/badge/Portfolio-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>](https://parkjh9370-portfolio.vercel.app/)
 [<img target='_blank' src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>](https://velog.io/@jaehyeon23)
 
 ![Gmail Badge](https://img.shields.io/badge/parkjh9370@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parkjh9370@gmail.com)
