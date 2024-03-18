@@ -1,5 +1,5 @@
 ### [Introduction] <br/>
-Hello. I am Backend Developer from south korea
+Hello, I'm a backend developer who primarily works with Node.js.
 
 ![Gmail Badge](https://img.shields.io/badge/parkjh9370@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parkjh9370@gmail.com)
 
@@ -7,8 +7,8 @@ Hello. I am Backend Developer from south korea
 [<img target='_blank' src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>](https://velog.io/@jaehyeon23)
 <br />
 ### [Work Experience]
-- 2023.11 ~ : [Fooding Coperation](https://fooding.io/?gad_source=1&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhNi_kJo1YnvY5cVmsd3ySdk3lVHCQvnhax-hsqlISoFbkfyGDO-HpQaAqqSEALw_wcB) Backend Developer
-- 2022.07 ~ 2023.09 : [TeamO2](https://teamo2.kr/) Backend Developer<br/>
+- [Fooding](https://fooding.io/?gad_source=1&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhNi_kJo1YnvY5cVmsd3ySdk3lVHCQvnhax-hsqlISoFbkfyGDO-HpQaAqqSEALw_wcB) Backend Developer (2023.11 ~ &nbsp;)
+- [TeamO2](https://teamo2.kr/) Backend Developer (2022.07 ~ 2023.09)
 
 ### [Skills] <br/>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
