@@ -1,5 +1,5 @@
-### [Introduction] <br/>
-Hello, I'm a backend developer who primarily works with Node.js.
+
+#### Hello, I'm a backend developer who primarily works with Node.js.
 
 ![Gmail Badge](https://img.shields.io/badge/parkjh9370@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parkjh9370@gmail.com)
 
