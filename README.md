@@ -1,5 +1,5 @@
 
-#### Hello, I'm a backend developer who primarily works with Node.js.
+#### Hello, I'm a backend developer specializing in Node.js.
 
 ![Gmail Badge](https://img.shields.io/badge/parkjh9370@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parkjh9370@gmail.com)
 
@@ -15,7 +15,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
  -->
 
- <br/><br/>
+ <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjh9370&layout=compact&theme=dracula)
 
