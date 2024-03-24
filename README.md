@@ -1,5 +1,5 @@
 
-<!-- #### Hello, I'm a backend developer specializing in Node.js. -->
+Hello, I'm a backend developer specializing in Node.js.
 
 ![Gmail Badge](https://img.shields.io/badge/parkjh9370@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parkjh9370@gmail.com)
 
