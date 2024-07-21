@@ -7,7 +7,7 @@
 [<img target='_blank' src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>](https://velog.io/@jaehyeon23)
 <br />
 ### [Work Experience / Education]
-- **Backend Developer**, [Fooding](https://fooding.io/?gad_source=1&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhNi_kJo1YnvY5cVmsd3ySdk3lVHCQvnhax-hsqlISoFbkfyGDO-HpQaAqqSEALw_wcB) (2023.11 ~ &nbsp;)
+- **Backend Developer**, [Fooding](https://fooding.io/?gad_source=1&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhNi_kJo1YnvY5cVmsd3ySdk3lVHCQvnhax-hsqlISoFbkfyGDO-HpQaAqqSEALw_wcB) (2023.11 ~ 2024.07)
 - **Backend Developer**, [TeamO2](https://teamo2.kr/) (2022.07 ~ 2023.09)
 - **Mechanical Technology Engineer**, KMW (2021.01 ~ 2021.07)
 - Major in **Mechanical Engineering**, Ulsan University (2012.03 ~ 2019.02)
