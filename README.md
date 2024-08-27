@@ -9,7 +9,7 @@
 ### [Work Experience / Education]
 - **Backend Developer**, [Fooding](https://fooding.io/?gad_source=1&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhNi_kJo1YnvY5cVmsd3ySdk3lVHCQvnhax-hsqlISoFbkfyGDO-HpQaAqqSEALw_wcB) (2023.11 ~ 2024.07)
 - **Backend Developer**, [TeamO2](https://teamo2.kr/)[<a href="https://carmore.kr/home/">CARMORE</a>] (2022.07 ~ 2023.09)
-- **Mechanical Technology Engineer**, KMW (2021.01 ~ 2021.07)
+- **Mechanical Technology Engineer**, KMW (2021.01 ~ 2021.09)
 - Major in **Mechanical Engineering**, Ulsan University (2012.03 ~ 2019.02)
 <!--
 ### [Skills] <br/>
