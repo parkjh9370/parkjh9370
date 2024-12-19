@@ -7,7 +7,6 @@
 [<img target='_blank' src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>](https://velog.io/@jaehyeon23)
 <br />
 ### [Work Experience / Education]
-- **Backend Developer**, [Flarelane](https://www.flarelane.co.kr/) (2024.09 ~ )
 - **Backend Developer**, [Fooding](https://fooding.io/?gad_source=1&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhNi_kJo1YnvY5cVmsd3ySdk3lVHCQvnhax-hsqlISoFbkfyGDO-HpQaAqqSEALw_wcB) (2023.11 ~ 2024.07)
 - **Backend Developer**, [TeamO2](https://teamo2.kr/)[<a href="https://carmore.kr/home/">CARMORE</a>] (2022.07 ~ 2023.09)
 - **Mechanical Technology Engineer**, KMW (2021.01 ~ 2021.09)
