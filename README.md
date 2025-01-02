@@ -18,7 +18,7 @@
 
  <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjh9370&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjh9370&layout=compact&theme=dracula&langs_count=6)
 
 <!-- ![Jaehyeon's github stats](https://github-readme-stats.vercel.app/api?username=parkjh9370&show_icons=true&theme=dracula&hide=stars,issues) -->
  
