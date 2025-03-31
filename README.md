@@ -3,10 +3,12 @@
 
 ![Gmail Badge](https://img.shields.io/badge/parkjh9370@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parkjh9370@gmail.com)
 
+
+<!--
 [<img target='_blank' src="https://img.shields.io/badge/Portfolio-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>](https://parkjh9370-portfolio.vercel.app/)
 [<img target='_blank' src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>](https://velog.io/@jaehyeon23)
 <br />
-<!--
+
 ### [Work Experience / Education]
 - **Backend Developer**, [Fooding](https://fooding.io/?gad_source=1&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhNi_kJo1YnvY5cVmsd3ySdk3lVHCQvnhax-hsqlISoFbkfyGDO-HpQaAqqSEALw_wcB) (2023.11 ~ 2024.07)
 - **Backend Developer**, [TeamO2](https://teamo2.kr/)[<a href="https://carmore.kr/home/">CARMORE</a>] (2022.07 ~ 2023.09)
